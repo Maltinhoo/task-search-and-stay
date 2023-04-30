@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-import '../../../../api/api_helper.dart';
+import '../../../../api_helper/api_helper.dart';
 import '../../infra/datasource/house_rule_external_datasource.dart';
 import '../../infra/model/house_rule_model.dart';
 
