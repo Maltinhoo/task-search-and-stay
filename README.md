@@ -2,15 +2,21 @@
 
 A new Flutter project.
 
-## Getting Started
+## About the Challenge
 
-This project is a starting point for a Flutter application.
+This project it's a task to demonstrate my skills with the framework, code quality and architecture.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Test
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The application presents several House Rules that can be Created, Read, Updated, Edited or Deleted.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To Edit or Delete, just drag to the left and select their respective options.
+
+To View, just press and hold the House Rule.
+
+To Add/Create, click on the "add" button and fill in the short form.
+
+
+
+
+
