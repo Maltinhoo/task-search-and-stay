@@ -8,7 +8,7 @@ This project it's a task to demonstrate my skills with the framework, code quali
 
 ## How to Test
 
-The application presents several House Rules that can be Created, Read, Updated, Edited or Deleted.
+The application presents several House Rules that can be Created, Read, Updated or Deleted.
 
 To Edit or Delete, just drag to the left and select their respective options.
 
